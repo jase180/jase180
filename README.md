@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning CSS/Javascript
 - 💞️ I’m looking for code review and mentoring!
 
-Project 1 - Personal website
-Project 2 - Twitter clone
-Project 3 - API (Probably smth to do with ToS
-
 Study Journey:
 
 UIUC CS 101
@@ -16,6 +12,7 @@ Freecodecamp Python
 GGTx – CS 1301 Computing in Python
 GTx – CS 1331 Introduction to Object-Oriented Programming with Java
 GTx – CS 1332 Data Structures & Algorithms
+SQL Bolt
 Odin project foundations
 
 
