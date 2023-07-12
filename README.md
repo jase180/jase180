@@ -16,12 +16,7 @@ Freecodecamp Python
 GGTx – CS 1301 Computing in Python
 GTx – CS 1331 Introduction to Object-Oriented Programming with Java
 GTx – CS 1332 Data Structures & Algorithms
-Odin project foundations <--- I'm here!
-Project 1 - Personal website
-Framework (React, angular)
-Project 2 - Basic gym record stats with account
-Basic SQL
-Project 3 - ToS api
+Odin project foundations
 
 
 Project journey:
@@ -29,6 +24,8 @@ Project journey:
 Python script - Invert list of grouped lines for work
 Python script - Parse directory of txts for information and write to csv file
 Python script - Read two txts of verses in two langauges and combine into verse by verse
+Python script - Reddit API key word search bot
+Full stack - User Authentication Website with Flask, SQL, HTML & CSS, Bootstrap
 
 <!---
 jase180/jase180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
