@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason @jase180
-- 👀 I’m interested in becoming a software engineer, coming from being a civil engineer currently
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in becoming a software engineer, piviting from civil engineering currently
+- 🌱 I’m currently learning Node js, Django and ML
 - 💞️ I’m looking for code review and mentoring!
 
 Study Journey:
