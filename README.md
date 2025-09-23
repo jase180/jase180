@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jason @jase180
-- 👀 I’m interested in becoming a software engineer, pivoting from civil engineering currently
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking for code review and mentoring!
+- 👀 I’m looking for a full time opportunity after a 3 months apprenticeship with Fetch rewards
+- 🌱 I’m currently learning C#
 
 Study Journey:
 
@@ -24,6 +23,8 @@ Python script - Read two txts of verses in two langauges and combine into verse 
 Python script - Reddit API key word search bot
 Full stack - User Authentication Website with Flask, SQL, HTML & CSS, Bootstrap
 Full stack - Option Credit Spread performance visualizer with Python, SQL, Flask, HTML/CSS, JS
+Stock ML Random forest Model 
+C# stock backtester
 
 <!---
 jase180/jase180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
