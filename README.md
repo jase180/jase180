@@ -12,7 +12,9 @@
 - GTx – CS 1331 Introduction to Object-Oriented Programming with Java  
 - GTx – CS 1332 Data Structures & Algorithms  
 - SQL Bolt  
-- Odin Project Foundations  
+- Odin Project Foundations
+- Andrew Ng ML Class
+- Design Patterns: Elements of Reusable Object-Oriented Software
 
 # Project Journey
 
