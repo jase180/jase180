@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason @jase180
-- 👀 I’m looking for a full time opportunity after a 3 months apprenticeship with Fetch rewards
-- 🌱 I’m currently learning C#
+- 👀 I’m thankfully working as a BE after being self taught
+- 🌱 I’m currently learning to become a better engineer
 
 # Study Journey
 
